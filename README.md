@@ -1,16 +1,51 @@
-# todo_list_study
+# 📋 To-Do List em Flutter  
 
-A new Flutter project.
+Um aplicativo simples de lista de tarefas desenvolvido em Flutter para reforçar meus estudos na tecnologia. 🚀  
 
-## Getting Started
+## 📌 Sobre o projeto  
+Faz bastante tempo que estudei Flutter, e agora estou retomando meus estudos praticamente do zero. Para isso, desenvolvi este **To-Do List** básico, explorando conceitos fundamentais como:  
 
-This project is a starting point for a Flutter application.
+✅ Estrutura do Flutter  
+✅ Gerenciamento de estado  
+✅ Listas dinâmicas  
+✅ Inputs e interação do usuário  
+✅ Armazenamento local (caso tenha implementado)  
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tecnologias utilizadas  
+- Flutter  
+- Dart  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Como executar o projeto  
+### Pré-requisitos  
+- [Flutter](https://flutter.dev/docs/get-started/install) instalado na sua máquina  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Passos  
+1. Clone este repositório:  
+   ```bash  
+   git clone https://github.com/LuisGustavoRosa/todo_list_study.git
+   ```  
+2. Acesse a pasta do projeto:  
+   ```bash  
+   cd todo_list_study
+   ```  
+3. Instale as dependências:  
+   ```bash  
+   flutter pub get  
+   ```  
+4. Execute o aplicativo:  
+   ```bash  
+   flutter run  
+   ```  
+
+## 🔥 Próximos passos  
+- Melhorar a UI/UX  
+- Adicionar persistência de dados  
+- Explorar animações no Flutter  
+
+## 🤝 Conecte-se comigo  
+Me adicione no [LinkedIn](https://www.linkedin.com/in/gustavoorosa/) e bora trocar ideias sobre Flutter! 🚀  
+
+---  
+
+📌 *Sinta-se à vontade para contribuir ou deixar sugestões!* 😃  
+
